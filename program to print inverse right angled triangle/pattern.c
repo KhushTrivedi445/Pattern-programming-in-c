@@ -19,3 +19,13 @@ for(int i=1;i<=n;i++){
 
   return 0;
 }
+
+/*
+output :
+Enter the number of rows you want:5
+        *****
+         ****
+          ***
+           **
+            *
+*/    
